@@ -449,4 +449,4 @@ istories | 泰剧 | 剧情/偶像/爱情/传记 | 1.0 | 2018-05-25 周五 | isto
 皮佐法科尼的混蛋们 | 意剧 | 剧情 | 0.0 | 2017-01-09 | 第一季 I bastardi di Pizzofalcone Season 1 | 其他 | 意大利语 |  | 4324 | C
 决战中途岛 | 电影 | 战争/剧情/历史 | 0.0 | 2019 | Midway |  | 英语 |  | 9859 | C
 
-## [A级别](http://none) [B级别](http://none) [C级别](http://none) [D级别](http://none) [E级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist)
+### [A 级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-A.md) [B 级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-B.md) [C 级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-C.md) [D 级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-D.md)

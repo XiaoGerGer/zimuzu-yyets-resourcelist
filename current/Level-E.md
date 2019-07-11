@@ -53,4 +53,4 @@
 德国恐惧 | 电影 | 动作/恐怖 | 5.1 | 2015-01-24 | German Angst |  | 德语 |  | 8690 | E
 黑袍纠察队 | 美剧 | 剧情/暴力/血腥 | 0.0 | 2019-07-26 周五 | The Boys | Amazon | 英语 |  | 4280 | E
 
-## [A级别](http://none) [B级别](http://none) [C级别](http://none) [D级别](http://none) [E级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist)
+### [A 级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-A.md) [B 级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-B.md) [C 级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-C.md) [D 级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-D.md)

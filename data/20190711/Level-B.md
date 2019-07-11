@@ -540,4 +540,4 @@ O型血 | 泰剧 | 剧情 | 5.5 | 2016-11-30 周三 | O-Negative รักออ
 冷冻灵魂 | 电影 | 剧情/喜剧 | 0.0 | 2009-01-17 周六 | Cold Souls |  | 英语 |  | 9667 | B
 我希望在地狱里仍有酒喝 | 电影 | 喜剧 | 0.0 | 2009-09-25 周五 | I Hope They Serve Beer in Hell |  | 英语 |  | 9611 | B
 
-## [A级别](http://none) [B级别](http://none) [C级别](http://none) [D级别](http://none) [E级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist)
+### [A 级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-A.md) [B 级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-B.md) [C 级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-C.md) [D 级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-D.md)

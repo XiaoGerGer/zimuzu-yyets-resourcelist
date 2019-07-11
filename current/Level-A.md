@@ -944,4 +944,4 @@ Nonkul 漫游中国 | 泰剧 | 喜剧/偶像/真人秀/综艺 | 4.7 | 2019-01-24
 帅哥日常 | 泰剧 | 喜剧/生活/真人秀/综艺 | 0.0 | 2019-05-15 周三 | One Day with Golf Pichaya | 其他 | 泰语 |  | 4317 | A
 少年泰坦出击大战少年泰坦 | 电影 | 动作/喜剧/冒险/动画/幽默 | 0.0 | 2019-10-31 周四 | Teen Titans Go! vs Teen Titans |  | 英语 |  | 10136 | A
 
-## [A级别](http://none) [B级别](http://none) [C级别](http://none) [D级别](http://none) [E级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist)
+### [A 级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-A.md) [B 级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-B.md) [C 级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-C.md) [D 级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-D.md)

@@ -134,4 +134,4 @@ Around 30 无修正 | 日剧 | 剧情/爱情 | 7.4 | 2014-07-25 周五 | Around 
 辣姐妹 | 电影 | 动作/剧情/惊悚 | 4.0 | 1996-11-06 周三 | Set It Off |  | 英语 |  | 9092 | D
 我的宝贝在哪里 | 电影 | 喜剧 | 3.6 | 2018-08-10 | The Package |  | 英语 |  | 9146 | D
 
-## [A级别](http://none) [B级别](http://none) [C级别](http://none) [D级别](http://none) [E级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist)
+### [A 级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-A.md) [B 级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-B.md) [C 级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-C.md) [D 级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-D.md)
