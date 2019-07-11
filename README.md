@@ -8,7 +8,7 @@
 - B 级别：有轻微暴力恐怖场面，建议儿童在父母陪伴下观看
 - A 级别：适合所有人正常观影，无任何不适内容
 
-### [A级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-A.md) [B级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-B.md) [C级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-C.md) [D级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-D.md) [E级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-E.md) 
+### [A级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-A.md) [B级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-B.md) [C级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-C.md) [D级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-D.md) [E级别](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist/blob/master/current/Level-E.md)
 
 ## E 级别
 剧名 | 剧种 | 类型 | 评分 | 首播 | 原名 | 电视台 | 语言 | 评分人数 | 站内排名 | 等级
