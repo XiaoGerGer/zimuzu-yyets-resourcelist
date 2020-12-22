@@ -9,8 +9,8 @@
 - A 级别：适合所有人正常观影，无任何不适内容
 ## E 级别 (全部共 100 部)
 
-剧名    |    标签&类型    |    排名    |    评分    |    链接    |    等级
------ | ---------- | ---------- | ---------- | ---------- | ---------- | -----
+剧名 | 标签&类型 | 排名 | 评分 | 链接 | 等级
+------------ | ------------ | ------------ | ------------ | ------------ | ------------
 《权力的游戏》    |    `美剧/美国` - ` 战争/剧情/魔幻/历史/古装/史诗`    |    1    |    9.4    |    [人人](http://www.rrys2020.com/resource/10733) [豆瓣](https://search.douban.com/movie/subject_search?search_text=权力的游戏) [IMDB](None)    |    E
 《西部世界》    |    `美剧/美国` - ` 科幻/惊悚/悬疑/西部`    |    9    |    8.9    |    [人人](http://www.rrys2020.com/resource/33701) [豆瓣](https://search.douban.com/movie/subject_search?search_text=西部世界) [IMDB](None)    |    E
 《无耻家庭》    |    `美剧/美国` - ` 剧情`    |    14    |    9.4    |    [人人](http://www.rrys2020.com/resource/10760) [豆瓣](https://search.douban.com/movie/subject_search?search_text=无耻家庭) [IMDB](None)    |    E
@@ -113,8 +113,8 @@
 《正义的子弹》    |    `电影/美国` - ` 恐怖`    |    10943    |    3.8    |    [人人](http://www.rrys2020.com/resource/41069) [豆瓣](https://search.douban.com/movie/subject_search?search_text=正义的子弹) [IMDB](https://www.imdb.com/title/tt6421398)    |    E
 ## D 级别 (仅显示前 80 部)
 
-剧名    |    标签&类型    |    排名    |    评分    |    链接    |    等级
------ | ---------- | ---------- | ---------- | ---------- | ---------- | -----
+剧名 | 标签&类型 | 排名 | 评分 | 链接 | 等级
+------------ | ------------ | ------------ | ------------ | ------------ | ------------
 《血族》    |    `美剧/美国` - ` 剧情/魔幻/恐怖/惊悚/灾难`    |    2    |    8.0    |    [人人](http://www.rrys2020.com/resource/32102) [豆瓣](https://search.douban.com/movie/subject_search?search_text=血族) [IMDB](None)    |    D
 《行尸走肉》    |    `美剧/美国` - ` 恐怖/丧尸/灾难`    |    7    |    8.8    |    [人人](http://www.rrys2020.com/resource/11057) [豆瓣](https://search.douban.com/movie/subject_search?search_text=行尸走肉) [IMDB](None)    |    D
 《古战场传奇》    |    `美剧/美国` - ` 战争/剧情/科幻/历史/爱情`    |    16    |    8.4    |    [人人](http://www.rrys2020.com/resource/32226) [豆瓣](https://search.douban.com/movie/subject_search?search_text=古战场传奇) [IMDB](None)    |    D
@@ -197,8 +197,8 @@
 《真人快打传奇：蝎子的复仇》    |    `电影/美国` - ` 动作/冒险/动画`    |    2176    |    8.4    |    [人人](http://www.rrys2020.com/resource/39834) [豆瓣](https://search.douban.com/movie/subject_search?search_text=真人快打传奇：蝎子的复仇) [IMDB](https://www.imdb.com/title/tt9580138)    |    D
 ## C 级别 (仅显示前 80 部)
 
-剧名    |    标签&类型    |    排名    |    评分    |    链接    |    等级
------ | ---------- | ---------- | ---------- | ---------- | ---------- | -----
+剧名 | 标签&类型 | 排名 | 评分 | 链接 | 等级
+------------ | ------------ | ------------ | ------------ | ------------ | ------------
 《敢死队3》    |    `电影/美国` - ` 动作/惊悚/冒险`    |    3    |    7.1    |    [人人](http://www.rrys2020.com/resource/32661) [豆瓣](https://search.douban.com/movie/subject_search?search_text=敢死队3) [IMDB](http://www.imdb.com/title/tt2333784/)    |    C
 《破坏者》    |    `电影/美国` - ` 动作/剧情/罪案`    |    7    |    6.6    |    [人人](http://www.rrys2020.com/resource/32430) [豆瓣](https://search.douban.com/movie/subject_search?search_text=破坏者) [IMDB](http://www.imdb.com/title/tt1742334)    |    C
 《小丑》    |    `电影/美国` - ` 动作/冒险`    |    9    |    8.8    |    [人人](http://www.rrys2020.com/resource/36822) [豆瓣](https://search.douban.com/movie/subject_search?search_text=小丑) [IMDB](http://www.imdb.com/title/tt7286456)    |    C
@@ -281,8 +281,8 @@
 《勿扰警告》    |    `电影/英国` - ` 惊悚`    |    270    |    8.3    |    [人人](http://www.rrys2020.com/resource/41460) [豆瓣](https://search.douban.com/movie/subject_search?search_text=勿扰警告) [IMDB](https://www.imdb.com/title/tt1548635)    |    C
 ## B 级别 (仅显示前 80 部)
 
-剧名    |    标签&类型    |    排名    |    评分    |    链接    |    等级
------ | ---------- | ---------- | ---------- | ---------- | ---------- | -----
+剧名 | 标签&类型 | 排名 | 评分 | 链接 | 等级
+------------ | ------------ | ------------ | ------------ | ------------ | ------------
 《末日孤舰》    |    `美剧/美国` - ` 战争/剧情/科幻/悬疑`    |    3    |    8.0    |    [人人](http://www.rrys2020.com/resource/32138) [豆瓣](https://search.douban.com/movie/subject_search?search_text=末日孤舰) [IMDB](None)    |    B
 《暴君》    |    `美剧/美国` - ` 战争/剧情`    |    5    |    8.9    |    [人人](http://www.rrys2020.com/resource/32142) [豆瓣](https://search.douban.com/movie/subject_search?search_text=暴君) [IMDB](None)    |    B
 《24小时》    |    `美剧/美国` - ` 动作/剧情/罪案`    |    6    |    9.3    |    [人人](http://www.rrys2020.com/resource/10453) [豆瓣](https://search.douban.com/movie/subject_search?search_text=24小时) [IMDB](None)    |    B
@@ -365,8 +365,8 @@
 《炸弹追凶》    |    `美剧/美国` - ` 历史/罪案/传记`    |    218    |    9.1    |    [人人](http://www.rrys2020.com/resource/35324) [豆瓣](https://search.douban.com/movie/subject_search?search_text=炸弹追凶) [IMDB](None)    |    B
 ## A 级别 (仅显示前 80 部)
 
-剧名    |    标签&类型    |    排名    |    评分    |    链接    |    等级
------ | ---------- | ---------- | ---------- | ---------- | ---------- | -----
+剧名 | 标签&类型 | 排名 | 评分 | 链接 | 等级
+------------ | ------------ | ------------ | ------------ | ------------ | ------------
 《变形金刚4：绝迹重生》    |    `电影/美国` - ` 动作/战争/科幻/冒险`    |    1    |    6.8    |    [人人](http://www.rrys2020.com/resource/31738) [豆瓣](https://search.douban.com/movie/subject_search?search_text=变形金刚4：绝迹重生) [IMDB](http://www.imdb.com/title/tt2109248/)    |    A
 《生活大爆炸》    |    `美剧/美国` - ` 喜剧`    |    4    |    9.3    |    [人人](http://www.rrys2020.com/resource/11005) [豆瓣](https://search.douban.com/movie/subject_search?search_text=生活大爆炸) [IMDB](None)    |    A
 《钢铁侠与美国队长：英雄集结》    |    `电影/美国` - ` 动作/战争/科幻/动画`    |    6    |    7.3    |    [人人](http://www.rrys2020.com/resource/32648) [豆瓣](https://search.douban.com/movie/subject_search?search_text=钢铁侠与美国队长：英雄集结) [IMDB](http://www.imdb.com/title/tt3911200)    |    A
